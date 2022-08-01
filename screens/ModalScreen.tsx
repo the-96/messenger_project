@@ -4,6 +4,8 @@ import { Platform, StyleSheet } from 'react-native';
 import EditScreenInfo from '../components/EditScreenInfo';
 import { Text, View } from '../components/Themed';
 
+// tab is locatated at information button on top right
+
 export default function ModalScreen() {
   return (
     <View style={styles.container}>
